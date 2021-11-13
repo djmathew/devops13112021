@@ -7,14 +7,12 @@ Print the numbers from 1 to 10 in random order to the terminal.
 ## Perquisites
 1. Operating system required Linux or MacOS
 2. Packages required:
-   1. [git](https://github.com/git-guides/install-git) - to clone the repository from GitHub
-       Verify git is installed
+   1. [git](https://github.com/git-guides/install-git) - to clone the repository from GitHub. Verify git is installed by the checking the installed version.
         ```shell
         git --version
         ```
         
-   2. bash - to run the shell script
-        Verify if bash exists look for the file /bin/bash
+   2. bash - to run the shell script. Verify if bash exists by look for the file /bin/bash
         ```shell
         ls /bin/bash
         ```
